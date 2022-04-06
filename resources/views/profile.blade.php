@@ -31,14 +31,14 @@
    <body>
  
    
-   <h1 style="color:red;">
+   <h1 style="color:blue;">
     <a href="{{url('/profile')}}">profile</a>
     <br>
-    <a href="{{url('/')}}">welcome</a></h1>
+    <a href="{{url('/')}}">home</a></h1>
        <h1>Profile page</h1>
-       <img style="width: 130px; height:130px;" src="{{asset('img/kaiwan.jpg')}}" alt=""><br>
-       <h1>Hellow my name is kaiwan and iam 23 years old and iam from darbandixhan i studed in spu in IT department 
-           stage 3 and ihave done my project as you asked thanks.</h1>
+       <img style="width: 130px; height:160px;" src="{{asset('img/ww.jpg')}}" alt=""><br>
+       <h1>Hellow my name is mhammad fateh and iam 25 years old and iam from kalar i studed in IT department 
+           stage 3 and thanks.</h1>
            
        
    </body>

@@ -24,8 +24,8 @@
     </head>
    <body>
    
-     <h1 style="color:red;">
-   <a href="{{url('/')}}">welcome</a><br>
+     <h1 style="color:blue;">
+   <a href="{{url('/')}}">home</a><br>
        <a href="{{url('/profile')}}">profile</a>
        </h1>
        <h1>Home page</h1>
